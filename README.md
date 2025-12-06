@@ -289,10 +289,8 @@ The results suggest that with proper data collection and advanced modeling techn
 - Pre-trained Model: ResNet18 (ImageNet weights)
 - Framework: PyTorch 2.6.0
 
-## License
 
-[Specify your license here]
 
 ---
 
-**Last Updated**: December 2024
+**Last Updated**: December 2025
