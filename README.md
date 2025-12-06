@@ -283,13 +283,6 @@ This project demonstrates that business logos encode information about industry 
 
 The results suggest that with proper data collection and advanced modeling techniques, logo-based business classification is a viable approach for automated company categorization systems.
 
-## Authors & Acknowledgments
-
-- Dataset: Crunchbase top 10,000 companies
-- Pre-trained Model: ResNet18 (ImageNet weights)
-- Framework: PyTorch 2.6.0
-
-
 
 ---
 
